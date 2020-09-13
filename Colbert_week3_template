@@ -1,4 +1,7 @@
-Description: 'Colbert - updated template to include tags, change to smaller instance size, change application port, and change file locations'
+Description: 'Template for HelloWorldApp - t2.nano, port 3333, and files downloaded from Mike Colbert Github'
+Metadata:
+  Modified by: 'Mike Colbert'
+  Modified on: '09/12/2020'
 Outputs:
   InstancePublicIp:
     Description: Public IP of our instance.
